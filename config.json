@@ -11,7 +11,7 @@
     },
     "android": {
       "transformGroup": "android",
-      "buildPath": "build/android/",
+      "buildPath": "androidcustomstyledictionary/src/main/java/br/com/ramonilho/androidcustomstyledictionary/",
       "files": [{
         "destination": "font_dimens.xml",
         "format": "android/fontDimens"
