@@ -10,7 +10,7 @@ A custom StyleDictionary pod example with some default tokens.
   s.author           = { 'Ramon Honorio' => 'ramonaqh@gmail.com' }
   s.source           = { :git => '', :tag => s.version.to_s }
   s.platform = :ios
-  s.source_files = 'ios/**/*.{h,m}'
-  s.public_header_files = 'ios/**/*.h'
+  s.source_files = 'build/ios/**/*.{h,m}'
+  s.public_header_files = 'build/ios/**/*.h'
   s.frameworks = 'UIKit', 'QuartzCore'
 end
