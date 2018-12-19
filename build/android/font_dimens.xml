@@ -2,12 +2,15 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 19 Dec 2018 17:27:29 GMT
+  Generated on Wed, 19 Dec 2018 17:45:44 GMT
 -->
 <resources>
-  <dimen name="size_font_small">12.00sp</dimen><!-- the small size of the font -->
-  <dimen name="size_font_medium">16.00sp</dimen><!-- the medium size of the font -->
-  <dimen name="size_font_large">32.00sp</dimen><!-- the large size of the font -->
+  <dimen name="size_font_micro">4.00sp</dimen><!-- the smallest size of the font -->
+  <dimen name="size_font_tiny">8.00sp</dimen>
+  <dimen name="size_font_small">12.00sp</dimen>
+  <dimen name="size_font_medium">16.00sp</dimen><!-- the normal size of the font -->
+  <dimen name="size_font_large">20.00sp</dimen>
+  <dimen name="size_font_big">24.00sp</dimen><!-- the biggest size of the font -->
   <dimen name="size_font_base">16.00sp</dimen><!-- the base size of the font -->
   
 </resources>
